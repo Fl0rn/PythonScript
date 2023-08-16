@@ -1,10 +1,6 @@
 import plotly
 import pandas as pd
-import time
-import plotly.graph_objects as go
 import plotly.express as px
-import datetime as dt
-import openpyxl
 
 
 def ConvToSmall(excel_file):

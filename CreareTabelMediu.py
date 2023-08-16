@@ -1,5 +1,4 @@
 import openpyxl
-import plotly
 import pandas as pd
 from openpyxl.styles import PatternFill
 def apply_cell_colors(ws):
